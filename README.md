@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
 </p>
 
-p align="center">
 
 ```text
                                                              _.._
@@ -24,7 +23,7 @@ p align="center">
                                                            'ºº?$IIS$S$$S
                                                                 '^º?T$$'
 
-</p> 
+
 ```
 
 
@@ -110,7 +109,7 @@ p align="center">
 
 ¿Charlamos? ¿Una colaboración? ¿Un reto de código?
 
-- 📬 **Email**: _[adrianvelascomanas77@gmail.com]_  
+- 📬 **Email**: _[sh4d0werr0rhack@gmail.com]_  
 
 ---
 
