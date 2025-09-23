@@ -25,6 +25,7 @@
 		
 ```
 
+![calavera](Miniaturas/calavera.png)
 
 ---
 
