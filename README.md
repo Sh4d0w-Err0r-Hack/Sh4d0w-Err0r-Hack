@@ -24,7 +24,7 @@
 			                                  '^º?T$$'	
 		
 ```
-![calavera_gif](calavera_blanca.gif)
+![calavera_gif](skull_blanco.gif)
 
 ---
 
