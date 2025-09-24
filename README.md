@@ -6,24 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
 </p>
 
-
-```text
-			                               _.._
-			                            .,yI$$$$$S$So.
-			                          ,iIS$$$$$$$$$$$$o.	    
-			                         :iIS$$$$$7º'º?4$S$$.      
-			                        :iS$SIi:d?    :jSI'^?      
-			                       .iISI?:.j$L.  _.$/^. :	 
-			                       :i?º'.y$$S$$S?Ij7  :_,	  
-			                       :iI·7  'º?$SSIjL , jSi    
-			                       .:i:'$ydb ?$SI$7º4b'º'    
-			                        .i:·?$$' 'ºº''?':?'	 
-			                         ': :SSL._:./., ,_,	    
-			                            iI$ILiLSb?$%%d'	    
-			                             'ºº?$IIS$S$$S	    
-			                                  '^º?T$$'	
-		
-```
 ![calavera_gif](calavera_blanca.gif)
 
 ---
