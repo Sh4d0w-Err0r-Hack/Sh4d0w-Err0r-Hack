@@ -3,10 +3,11 @@
 <h1 align="center">⚡ Bienvenid@ al cuartel de <span style="color:#00ffcc">Sh4d0w_err0r</span> ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;FSociety%2C;Let's+build+%26+break+stuff!;Youtube+Channel;Hacking+all+day" alt="Typing SVG" />
 </p>
-
-![calavera_gif](calavera_blanca.gif)
+```text
+![gif](calavera_blanca.gif)
+```
 
 ---
 
